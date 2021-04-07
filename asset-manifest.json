@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/ADPCS/static/css/main.b5412e18.chunk.css",
+    "main.js": "/ADPCS/static/js/main.7c9651a9.chunk.js",
+    "main.js.map": "/ADPCS/static/js/main.7c9651a9.chunk.js.map",
+    "runtime-main.js": "/ADPCS/static/js/runtime-main.c46eedca.js",
+    "runtime-main.js.map": "/ADPCS/static/js/runtime-main.c46eedca.js.map",
+    "static/css/2.fe359a49.chunk.css": "/ADPCS/static/css/2.fe359a49.chunk.css",
+    "static/js/2.2a42a64e.chunk.js": "/ADPCS/static/js/2.2a42a64e.chunk.js",
+    "static/js/2.2a42a64e.chunk.js.map": "/ADPCS/static/js/2.2a42a64e.chunk.js.map",
+    "static/js/3.989a73ca.chunk.js": "/ADPCS/static/js/3.989a73ca.chunk.js",
+    "static/js/3.989a73ca.chunk.js.map": "/ADPCS/static/js/3.989a73ca.chunk.js.map",
+    "index.html": "/ADPCS/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/ADPCS/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.b5412e18.chunk.css.map": "/ADPCS/static/css/main.b5412e18.chunk.css.map",
+    "static/js/2.2a42a64e.chunk.js.LICENSE.txt": "/ADPCS/static/js/2.2a42a64e.chunk.js.LICENSE.txt",
+    "static/media/SEGA.woff": "/ADPCS/static/media/SEGA.47b4bfa9.woff",
+    "static/media/ali.jpeg": "/ADPCS/static/media/ali.9f03499c.jpeg",
+    "static/media/arham.jpeg": "/ADPCS/static/media/arham.e0c9611f.jpeg",
+    "static/media/atif.jpeg": "/ADPCS/static/media/atif.dd3c57f7.jpeg",
+    "static/media/haris.jpeg": "/ADPCS/static/media/haris.61ff9746.jpeg",
+    "static/media/irfan.jpeg": "/ADPCS/static/media/irfan.575b889a.jpeg",
+    "static/media/manan.jpeg": "/ADPCS/static/media/manan.abc67525.jpeg",
+    "static/media/mohsin.jpeg": "/ADPCS/static/media/mohsin.563fef0e.jpeg",
+    "static/media/mu.jpeg": "/ADPCS/static/media/mu.36325921.jpeg",
+    "static/media/sami.jpeg": "/ADPCS/static/media/sami.c064fcd9.jpeg",
+    "static/media/sami.jpg": "/ADPCS/static/media/sami.c064fcd9.jpg",
+    "static/media/shazil.jpeg": "/ADPCS/static/media/shazil.a96cc88d.jpeg",
+    "static/media/waqas.jpeg": "/ADPCS/static/media/waqas.a78c2293.jpeg",
+    "static/media/waqas1.jpeg": "/ADPCS/static/media/waqas1.a22aab30.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c46eedca.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.2a42a64e.chunk.js",
+    "static/css/main.b5412e18.chunk.css",
+    "static/js/main.7c9651a9.chunk.js"
+  ]
+}
